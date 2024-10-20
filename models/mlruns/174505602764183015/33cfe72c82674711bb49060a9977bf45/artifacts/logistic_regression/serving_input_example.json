@@ -1,0 +1,14 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "feature1",
+      "feature2"
+    ],
+    "data": [
+      [
+        0.5,
+        1.5
+      ]
+    ]
+  }
+}

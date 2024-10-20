@@ -1,0 +1,6 @@
+artifact_location: file:///home/semre/fraud_detection_data_analysis/models/mlruns/174505602764183015
+creation_time: 1729420736337
+experiment_id: '174505602764183015'
+last_update_time: 1729420736337
+lifecycle_stage: active
+name: fraud-detection
